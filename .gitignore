@@ -7,3 +7,6 @@ pkg/*
 
 doc
 log
+.idea/
+*.swo
+*.swp
